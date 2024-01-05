@@ -29,4 +29,4 @@ Links to all my projects:
 **View project:** https://supersaiyancoding.github.io/Drawing-app-BETA-/
 **Src code:** https://github.com/SuperSaiyanCoding/Drawing-app-BETA-
 
-**©ALL Rights reserved 2024 A.V.**
+**©All rights reserved 2024 A.V.**
