@@ -1,7 +1,7 @@
 # **My-projects**
 Links to all my projects:
 ## **RPG platformer (BETA) (kaboom.js)**
-<img src="https://storage.googleapis.com/replit/images/1699161928741_eb597938dff77f71a9f2e8113b1c0009.png" width="200">
+<img src="https://github.com/SuperSaiyanCoding/My-projects/assets/112682624/4b083634-81a4-4afe-a15a-afad42cc8c4c" width="200">
 
 **Play the game:** https://supersaiyancoding.github.io/Platformer-game/
 **Src code:** https://github.com/SuperSaiyanCoding/Platformer-game
