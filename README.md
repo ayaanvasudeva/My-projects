@@ -1,6 +1,6 @@
 # **My-projects**
 Links to all my projects:
-## **Platformer (phaser.js)**
+## **RPG platformer (BETA) (kaboom.js)**
 <img src="https://storage.googleapis.com/replit/images/1699161928741_eb597938dff77f71a9f2e8113b1c0009.png" width="200">
 
 **Play the game:** https://supersaiyancoding.github.io/Platformer-game/
