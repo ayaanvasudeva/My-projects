@@ -6,6 +6,12 @@ Links to all my projects:
 **Play the game:** https://supersaiyancoding.github.io/Platformer-game/
 **Src code:** https://github.com/SuperSaiyanCoding/Platformer-game
 
+## **Platformer (phaser.js)**
+<img src="https://storage.googleapis.com/replit/images/1699161928741_eb597938dff77f71a9f2e8113b1c0009.png" width="200">
+
+**Play the game:** https://supersaiyancoding.github.io/Platformer-game/
+**Src code:** https://github.com/SuperSaiyanCoding/Platformer-game
+
 ## **Pong (pygame)**
 <img src="https://github.com/SuperSaiyanCoding/My-projects/assets/112682624/13bdda9c-6280-43b6-95bb-6bf3b0faf221" width="200">
 
