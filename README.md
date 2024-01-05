@@ -11,7 +11,7 @@ Links to all my projects:
 
 **Src code:** https://github.com/SuperSaiyanCoding/Pong
 
-## **Dice game**
+## **Dice game (vanilla js)**
 <img src="https://github.com/SuperSaiyanCoding/My-projects/assets/112682624/c745fc58-8319-4e36-9b58-d1c2490e3a7d" width="200">
 
 **Play the game:** https://supersaiyancoding.github.io/Dice-game/
