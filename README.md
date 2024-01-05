@@ -18,10 +18,10 @@ Links to all my projects:
 **Src code:** https://github.com/SuperSaiyanCoding/Pong
 
 ## **Drum kit (vanilla js)**
-<img src="https://github.com/SuperSaiyanCoding/My-projects/assets/112682624/c745fc58-8319-4e36-9b58-d1c2490e3a7d" width="200">
+<img src="https://github.com/SuperSaiyanCoding/My-projects/assets/112682624/1a75b215-1a8e-4ade-ac5e-a2f67c546472" width="200">
 
-**Play the game:** https://supersaiyancoding.github.io/Dice-game/
-**Src code:** https://github.com/SuperSaiyanCoding/Dice-game
+**Play the game:** https://supersaiyancoding.github.io/Drum-kit/
+**Src code:** https://github.com/SuperSaiyanCoding/Drum-kit
 
 
 ## **Dice game (vanilla js)**
