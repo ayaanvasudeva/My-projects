@@ -18,7 +18,7 @@ Links to all my projects:
 **Src code:** https://github.com/SuperSaiyanCoding/Dice-game
 
 ## **Drawing app (BETA)**
-<img src="https://github.com/SuperSaiyanCoding/My-projects/assets/112682624/c745fc58-8319-4e36-9b58-d1c2490e3a7d" width="200">
+<img src="https://github.com/SuperSaiyanCoding/My-projects/assets/112682624/3061b2f0-2285-4491-8c78-64d717f100af" width="200">
 
 **View project:** https://supersaiyancoding.github.io/Drawing-app-BETA-/
 **Src code:** https://github.com/SuperSaiyanCoding/Drawing-app-BETA-
