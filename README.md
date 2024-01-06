@@ -3,8 +3,7 @@ Links to all my projects:
 ## **RPG platformer (BETA) (kaboom.js)**
 <img src="https://github.com/SuperSaiyanCoding/My-projects/assets/112682624/4b083634-81a4-4afe-a15a-afad42cc8c4c" width="200">
 
-**Play the game:** (link)
-**Src code:** (link)
+**Src code:** https://replit.com/@SuperSaiyanCoding/RPG-plaformer-BETA?v=1#README.md
 
 ## **Platformer (phaser.js)**
 <img src="https://storage.googleapis.com/replit/images/1699161928741_eb597938dff77f71a9f2e8113b1c0009.png" width="200">
