@@ -17,7 +17,7 @@ Links to all my projects:
 **Src code:** https://github.com/SuperSaiyanCoding/Pong
 
 ## **Simon says game (JQuery)**
-<img src="https://github.com/SuperSaiyanCoding/My-projects/assets/112682624/1a75b215-1a8e-4ade-ac5e-a2f67c546472" width="200">
+<img src="https://github.com/SuperSaiyanCoding/My-projects/assets/112682624/51644314-75b3-4426-8649-39004cae71be" width="200">
 
 **Play the game:** https://supersaiyancoding.github.io/Drum-kit/
 **Src code:** https://github.com/SuperSaiyanCoding/Drum-kit
