@@ -12,7 +12,7 @@ Links to all my projects:
 **Src code:** https://github.com/SuperSaiyanCoding/Platformer-game
 
 ## **2D Sonic (pygame)**
-<img src="https://github.com/SuperSaiyanCoding/My-projects/assets/112682624/13bdda9c-6280-43b6-95bb-6bf3b0faf221" width="200">
+<img src="https://github.com/SuperSaiyanCoding/My-projects/assets/112682624/4c67ca53-ed96-4083-b331-319cb73273bb" width="200">
 
 **Src code:** https://github.com/SuperSaiyanCoding/2D-Sonic
 
