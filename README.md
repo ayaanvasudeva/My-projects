@@ -19,7 +19,7 @@ Links to all my projects:
 ## **Simon says game (JQuery)**
 <img src="https://github.com/SuperSaiyanCoding/My-projects/assets/112682624/51644314-75b3-4426-8649-39004cae71be" width="200">
 
-**Play the game:** https://supersaiyancoding.github.io/Drum-kit/
+**Play the game:** https://supersaiyancoding.github.io/Simon-Says-game/
 **Src code:** https://github.com/SuperSaiyanCoding/Simon-Says-game
 
 ## **Drum kit (vanilla js)**
