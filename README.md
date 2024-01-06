@@ -22,6 +22,13 @@ Links to all my projects:
 **Play the game:** https://supersaiyancoding.github.io/Drum-kit/
 **Src code:** https://github.com/SuperSaiyanCoding/Drum-kit
 
+## **Simon says game (JQuery)**
+<img src="https://github.com/SuperSaiyanCoding/My-projects/assets/112682624/1a75b215-1a8e-4ade-ac5e-a2f67c546472" width="200">
+
+**Play the game:** https://supersaiyancoding.github.io/Drum-kit/
+**Src code:** https://github.com/SuperSaiyanCoding/Drum-kit
+
+
 ## **Fruitle (phaser.js)**
 <img src="https://github.com/SuperSaiyanCoding/My-projects/assets/112682624/8b131f56-45a3-4941-aac9-8341323fc4d6" width="200">
 
