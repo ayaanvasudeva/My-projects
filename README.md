@@ -16,13 +16,13 @@ Links to all my projects:
 
 **Src code:** https://github.com/SuperSaiyanCoding/Pong
 
-## **Drum kit (vanilla js)**
+## **Simon says game (JQuery)**
 <img src="https://github.com/SuperSaiyanCoding/My-projects/assets/112682624/1a75b215-1a8e-4ade-ac5e-a2f67c546472" width="200">
 
 **Play the game:** https://supersaiyancoding.github.io/Drum-kit/
 **Src code:** https://github.com/SuperSaiyanCoding/Drum-kit
 
-## **Simon says game (JQuery)**
+## **Drum kit (vanilla js)**
 <img src="https://github.com/SuperSaiyanCoding/My-projects/assets/112682624/1a75b215-1a8e-4ade-ac5e-a2f67c546472" width="200">
 
 **Play the game:** https://supersaiyancoding.github.io/Drum-kit/
