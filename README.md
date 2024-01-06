@@ -27,7 +27,7 @@ Links to all my projects:
 <img src="https://github.com/SuperSaiyanCoding/My-projects/assets/112682624/8b131f56-45a3-4941-aac9-8341323fc4d6" width="200">
 
 **Play the game:** https://supersaiyancoding.github.io/Dice-game/
-**Src code:** https://github.com/SuperSaiyanCoding/Dice-game
+**Src code:** https://github.com/SuperSaiyanCoding/Fruitle
 
 
 ## **Dice game (vanilla js)**
