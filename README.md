@@ -12,7 +12,7 @@ Links to all my projects:
 **Src code:** https://github.com/SuperSaiyanCoding/Platformer-game
 
 ## **Weather app (node.js)**
-<img src="https://github.com/SuperSaiyanCoding/My-projects/assets/112682624/d2c7772b-fb0a-4f3c-86c8-7243cef6ca15" width="200">
+<img src="https://github.com/SuperSaiyanCoding/Weather-app" width="200">
 
 **Src code:** https://replit.com/@SuperSaiyanCoding/Weather-app?v=1#hidden.env
 
