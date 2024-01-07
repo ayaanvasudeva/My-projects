@@ -14,8 +14,7 @@ Links to all my projects:
 ## **Weather app (node.js)**
 <img src="https://github.com/SuperSaiyanCoding/Weather-app" width="200">
 
-**Src code:** https://replit.com/@SuperSaiyanCoding/Weather-app?v=1#hidden.env
-
+**Src code:** https://github.com/SuperSaiyanCoding/Weather-app
 ## **2D Sonic (pygame)**
 <img src="https://github.com/SuperSaiyanCoding/My-projects/assets/112682624/4c67ca53-ed96-4083-b331-319cb73273bb" width="200">
 
