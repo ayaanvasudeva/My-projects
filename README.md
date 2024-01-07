@@ -12,7 +12,7 @@ Links to all my projects:
 **Src code:** https://github.com/SuperSaiyanCoding/Platformer-game
 
 ## **Weather app (node.js)**
-<img src="https://github.com/SuperSaiyanCoding/Weather-app" width="200">
+<img src="https://github.com/SuperSaiyanCoding/My-projects/assets/112682624/a17a29c4-bab1-4f63-aebe-da575f0ee096" width="200">
 
 **Src code:** https://github.com/SuperSaiyanCoding/Weather-app
 ## **2D Sonic (pygame)**
