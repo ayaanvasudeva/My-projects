@@ -45,7 +45,7 @@ Links to all my projects:
 **Src code:** https://github.com/SuperSaiyanCoding/Fruitle
 
 ## **To do list (node.js.js)**
-<img src="https://github.com/SuperSaiyanCoding/My-projects/assets/112682624/8b131f56-45a3-4941-aac9-8341323fc4d6" width="200">
+<img src="https://github.com/SuperSaiyanCoding/To-do-list/assets/112682624/1f57886e-5cd4-4d22-baa5-1eb632e0da50" width="200">
 
 **Src code:** https://github.com/SuperSaiyanCoding/To-do-list
 
