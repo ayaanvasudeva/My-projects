@@ -62,7 +62,7 @@ Links to all my projects:
 **Src code:** https://github.com/SuperSaiyanCoding/Drawing-app-BETA-
 
 ## **Caculator (tkinter)**
-<img src="https://github.com/SuperSaiyanCoding/My-projects/assets/112682624/3061b2f0-2285-4491-8c78-64d717f100af" width="200">
+<img src="https://github.com/SuperSaiyanCoding/My-projects/assets/112682624/67df2c12-a25f-4bea-9b6f-ebcb99f64ddb" width="200">
 
 **Src code:** https://github.com/SuperSaiyanCoding/Calculator
 
