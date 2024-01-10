@@ -67,7 +67,7 @@ Links to all my projects:
 **Src code:** https://github.com/SuperSaiyanCoding/Calculator
 
 ## **Cookie Clicker (tkinter)**
-<img src="https://github.com/SuperSaiyanCoding/My-projects/assets/112682624/67df2c12-a25f-4bea-9b6f-ebcb99f64ddb" width="200">
+<img src="https://github.com/SuperSaiyanCoding/My-projects/assets/112682624/4ba837f3-c6b4-42f5-a8bc-61274074dc53" width="200">
 
 **Src code:** https://github.com/SuperSaiyanCoding/Cookie-Clicker--old-
 
