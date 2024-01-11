@@ -69,7 +69,8 @@ Links to all my projects:
 ## **Stop watch (jQuery)**
 <img src="https://github.com/SuperSaiyanCoding/My-projects/assets/112682624/9fa9d70b-6d15-4c46-ade5-b8e943f790d9" width="200">
 
-**Src code:** https://github.com/SuperSaiyanCoding/Cookie-Clicker--old-
+**View project:** https://supersaiyancoding.github.io/Stop-watch/
+**Src code:** https://github.com/SuperSaiyanCoding/Stop-watch
 
 ## **Cookie Clicker (tkinter)**
 <img src="https://github.com/SuperSaiyanCoding/My-projects/assets/112682624/4ba837f3-c6b4-42f5-a8bc-61274074dc53" width="200">
