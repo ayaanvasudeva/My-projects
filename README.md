@@ -25,7 +25,7 @@ Links to all my projects:
 
 **Src code:** https://github.com/SuperSaiyanCoding/Pong
 
-## **Simon says game (JQuery)**
+## **Simon says game (jQuery)**
 <img src="https://github.com/SuperSaiyanCoding/My-projects/assets/112682624/51644314-75b3-4426-8649-39004cae71be" width="200">
 
 **Play the game:** https://supersaiyancoding.github.io/Simon-Says-game/
@@ -67,7 +67,7 @@ Links to all my projects:
 **Src code:** https://github.com/SuperSaiyanCoding/Calculator
 
 ## **Stop watch (jQuery)**
-<img src="https://github.com/SuperSaiyanCoding/My-projects/assets/112682624/4ba837f3-c6b4-42f5-a8bc-61274074dc53" width="200">
+<img src="https://github.com/SuperSaiyanCoding/My-projects/assets/112682624/9fa9d70b-6d15-4c46-ade5-b8e943f790d9" width="200">
 
 **Src code:** https://github.com/SuperSaiyanCoding/Cookie-Clicker--old-
 
