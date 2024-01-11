@@ -66,6 +66,11 @@ Links to all my projects:
 
 **Src code:** https://github.com/SuperSaiyanCoding/Calculator
 
+## **Stop watch (jQuery)**
+<img src="https://github.com/SuperSaiyanCoding/My-projects/assets/112682624/4ba837f3-c6b4-42f5-a8bc-61274074dc53" width="200">
+
+**Src code:** https://github.com/SuperSaiyanCoding/Cookie-Clicker--old-
+
 ## **Cookie Clicker (tkinter)**
 <img src="https://github.com/SuperSaiyanCoding/My-projects/assets/112682624/4ba837f3-c6b4-42f5-a8bc-61274074dc53" width="200">
 
