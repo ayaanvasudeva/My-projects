@@ -76,7 +76,7 @@ Links to all my projects:
 <img src="https://github.com/SuperSaiyanCoding/My-projects/assets/112682624/4ba837f3-c6b4-42f5-a8bc-61274074dc53" width="200">
 
 **Src code:** https://github.com/SuperSaiyanCoding/Cookie-Clicker--old-
-
+<h3>To view more projects go over <a href = "">here</a></h3>
 # Please let me know if one of the links is not working
 
 **©All rights reserved 2024 A.V.**
